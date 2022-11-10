@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/GCP-Data-Ingestion-with-SQL-using-Google-Cloud-Dataflow.iml" filepath="$PROJECT_DIR$/.idea/GCP-Data-Ingestion-with-SQL-using-Google-Cloud-Dataflow.iml" />
+    </modules>
+  </component>
+</project>
